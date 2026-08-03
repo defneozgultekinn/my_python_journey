@@ -13,7 +13,7 @@ I'm documenting my progress here, day by day.
 - [06_lists.py](06_lists.py) - lists, creating and modifying them
 - [07_list_functions.py](07_list_functions.py) - list functions (append, remove, sort, etc.)
 - [08_tuples.py](08_tuples.py) - tuples
-- - [09_functions.py](09_functions.py) - defining and calling functions
+- [09_functions.py](09_functions.py) - defining and calling functions
 - [10_return_statement.py](10_return_statement.py) - return statement in functions
 
 
