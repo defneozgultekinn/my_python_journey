@@ -19,4 +19,4 @@ I'm documenting my progress here, day by day.
 
 ### Mini Projects
 - [05_basic_calculator.py](05_basic_calculator.py) - a simple calculator using variables, numbers, and input
-- [11_mad_libs_game.py](11_mad_libs_game.py) - a Mad Libs style game using strings, input, and f-strings
+
