@@ -15,8 +15,12 @@ I'm documenting my progress here, day by day.
 - [08_tuples.py](08_tuples.py) - tuples
 - [09_functions.py](09_functions.py) - defining and calling functions
 - [10_return_statement.py](10_return_statement.py) - return statement in functions
+- [11_if_statements.py](11_if_statements.py) - if statements
+- [12_if_statements_and_comparisons.py](12_if_statements_and_comparisons.py) - if statements and comparisons
+- [13_dictionaries.py](14_dictionaries.py) - dictionaries
+- [14_while_loop.py](15_while_loop.py) - while loop
 
 
 ### Mini Projects
 - [05_basic_calculator.py](05_basic_calculator.py) - a simple calculator using variables, numbers, and input
-
+- [15_guessing_game.py](15_guessing_game.py) - a number guessing game using while loop
