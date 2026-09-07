@@ -21,14 +21,10 @@ I'm documenting my progress here, day by day.
 - [14_while_loop.py](15_while_loop.py) - while loop
 - [16_for_loop.py](16_for_loop.py) - for loops
 - [17_exponent_function.py](17_exponent_function.py) - exponent function, math operations
-- [18_2d_lists_and_nested_loops.py](18_2d_lists_and_nested_loops.py) - 2D lists and nested loops
-- [20_comments.py](20_comments.py) - writing comments in code
-- [21_try_except.py](21_try_except.py) - error handling with try/except
-- [22_reading_files.py](22_reading_files.py) - reading files
+- [18_lambda_functions.py](18_lambda_functions.py) - lambda functions, sorted() with key, and custom sorting
 
 
 
 ### Mini Projects
 - [05_basic_calculator.py](05_basic_calculator.py) - a simple calculator using variables, numbers, and input
 - [15_guessing_game.py](15_guessing_game.py) - a word guessing game using while loop
-- [19_translator.py](19_translator.py) - a simple translator using dictionaries and for loops
