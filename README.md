@@ -31,6 +31,4 @@ I'm documenting my progress here, day by day.
 
 
 ### Exam Practice
-- [Function 1 – Pokémon Ranking](func1_pokemon_ranking.py) - sorting dictionaries using `sorted()` and lambda functions
-- [Function 2 – Chat Filter](func2_chat_filter.py) - filtering and censoring words using string operations and loops
-- [Function 3 – Damage Multiplier](func3_damage_multiplier.py) - processing nested dictionaries using nested loops and `.get()`
+- [January 29, 2026 Exam Practice](19_exam_practice_january_29.py) - solved Functions 1–3: Pokémon ranking using dictionaries, `sorted()` and lambda; chat filtering using string operations and loops; damage multiplier calculation using nested dictionaries, nested loops and `.get()`
