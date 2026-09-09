@@ -28,3 +28,9 @@ I'm documenting my progress here, day by day.
 ### Mini Projects
 - [05_basic_calculator.py](05_basic_calculator.py) - a simple calculator using variables, numbers, and input
 - [15_guessing_game.py](15_guessing_game.py) - a word guessing game using while loop
+
+
+### Exam Practice
+- [Function 1 – Pokémon Ranking](func1_pokemon_ranking.py) - sorting dictionaries using `sorted()` and lambda functions
+- [Function 2 – Chat Filter](func2_chat_filter.py) - filtering and censoring words using string operations and loops
+- [Function 3 – Damage Multiplier](func3_damage_multiplier.py) - processing nested dictionaries using nested loops and `.get()`
