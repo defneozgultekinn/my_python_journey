@@ -31,4 +31,4 @@ I'm documenting my progress here, day by day.
 
 
 ### Exam Practice
-- [January 29, 2026 Exam Practice](program.vuoto.py) - solved Functions 1–2: Pokémon ranking using dictionaries, `sorted()` and lambda; chat filtering using string operations and loops
+- [January 29, 2026 Exam Practice](19_exam_practice_functions.py) - solved Functions 1–2: Pokémon ranking using dictionaries, `sorted()` and lambda; chat filtering using string operations and loops
