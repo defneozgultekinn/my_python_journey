@@ -72,3 +72,13 @@ print(selected_numbers)
 # map()    = transforms every element
 # filter() = selects elements based on a condition
 # list()   = converts the result into a regular list
+
+
+sorted(collection, key=lambda element: sorting_value )
+sorted(collection, key=lambda element: (first_criterion, second_criterion))
+
+Değişkenlerin anlamları:
+
+collection: Sıralanacak liste
+element: O anda listenin içinden gelen tek bir eleman
+sorting_value: O elemandan çıkaracağımız sıralama ölçütü
