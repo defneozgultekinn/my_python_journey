@@ -22,7 +22,7 @@ I'm documenting my progress here, day by day.
 - [16_for_loop.py](16_for_loop.py) - for loops
 - [17_exponent_function.py](17_exponent_function.py) - exponent function, math operations
 - [18_lambda_functions.py](18_lambda_functions.py) - lambda functions, sorted() with key, and custom sorting
-
+- [20_recursive_functions.py](20_recursive_functions.py) — recursive functions, base cases, recursive calls, and reducing the problem
 
 
 ### Mini Projects
@@ -31,4 +31,4 @@ I'm documenting my progress here, day by day.
 
 
 ### Exam Practice
-- [January 29, 2026 Exam Practice](program.vuoto.py) - solved Functions 1–2: Pokémon ranking using dictionaries, `sorted()` and lambda; chat filtering using string operations and loops
+- [January 29, 2026 Exam Practice](19_exam_practice_functions.py) - solved Functions 1–2: Pokémon ranking using dictionaries, `sorted()` and lambda; chat filtering using string operations and loops
