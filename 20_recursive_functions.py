@@ -137,3 +137,79 @@ print(result)
 
     # Otherwise:
     # Return only the result of searching the remaining list.
+
+
+#NESTED DICTIONARY EXAMPLE
+data = {
+    "user": {
+        "name": "Defne",
+        "settings": {
+            "theme": "dark",
+            "language": "English"
+        }
+    }
+}
+
+user_data = data["user"]
+print(user_data)
+
+settings_data = user_data["settings"]
+print(settings_data)
+
+theme = settings_data["theme"]
+print(theme)
+
+
+
+"""
+Exercise: Follow a Key Chain in a Nested Dictionary
+
+Write a recursive function called follow_keys() that:
+
+- Receives a nested dictionary called data.
+- Receives a list of keys called key_chain.
+- Follows the keys in the given order.
+- Returns the final value if all keys are found.
+- Returns None if a key does not exist.
+- Must use recursion.
+
+Example:
+
+data = {
+    "user": {
+        "settings": {
+            "theme": "dark"
+        }
+    }
+}
+
+key_chain = ["user", "settings", "theme"]
+
+follow_keys(data, key_chain)
+Returns: "dark"
+"""
+
+
+def follow_keys(data, key_chain):
+    if key_chain==[]:
+        return data
+    first_key= key_chain[0]
+    remaining_keys=key_chain[1:]
+    if first_key not in data:
+        return None
+    else:
+        return follow_keys(data[first_key], remaining_keys)  #eğer first_key bulunduysa, o anahtarın içindeki
+        # değere in, ve aynı işlemi (fonksiyonu) tekrar çağır — ama bu sefer daha küçük bir data ve daha
+        # kısa bir key_chain ile.
+#1 adim ileri gitmis sekilde fonksiyonu tekrar cagiriyoez
+data = {
+    "user": {
+        "settings": {
+            "theme": "dark"
+        }
+    }
+}
+
+key_chain = ["user", "settings", "theme"]
+result=follow_keys(data,key_chain)
+print(result)
