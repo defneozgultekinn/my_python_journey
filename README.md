@@ -32,3 +32,4 @@ I'm documenting my progress here, day by day.
 
 ### Exam Practice
 - [January 29, 2026 Exam Practice](19_exam_practice_functions.py) - solved Functions 1–2: Pokémon ranking using dictionaries, `sorted()` and lambda; chat filtering using string operations and loops
+- [Recursive Exam Exercises – EX1 and EX2](21_exam_recursive_exercises.py) — exact-size subset sum using branching recursion and nested dictionary traversal with recursive depth tracking
