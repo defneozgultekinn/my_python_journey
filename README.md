@@ -23,6 +23,7 @@ I'm documenting my progress here, day by day.
 - [17_exponent_function.py](17_exponent_function.py) - exponent function, math operations
 - [18_lambda_functions.py](18_lambda_functions.py) - lambda functions, sorted() with key, and custom sorting
 - [20_recursive_functions.py](20_recursive_functions.py) — recursive functions, base cases, recursive calls, and reducing the problem
+- [21_file_reading_and_writing.py](21_file_reading_and_writing.py) — Practice with reading text files, processing lines, splitting data, type conversion, and writing results to a new file.
 
 
 ### Mini Projects
